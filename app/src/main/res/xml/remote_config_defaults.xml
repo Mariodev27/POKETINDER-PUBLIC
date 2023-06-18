@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>is_under_maintance</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>url_pokemon_live</key>
+        <value>https://www.google.com/es/</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

@@ -6,6 +6,6 @@ import com.santisteban.mario.poketinder.data.database.dao.PokemonDao
 import com.santisteban.mario.poketinder.data.database.entities.MyPokemonEntity
 
 @Database(entities = [MyPokemonEntity::class], version = 1)
-abstract class PokemonDatabase: RoomDatabase() {
-    abstract fun getPokemonDao(): PokemonDao
+abstract class PokemonDatabase:RoomDatabase() {
+    abstract fun getPokemonDao():PokemonDao
 }

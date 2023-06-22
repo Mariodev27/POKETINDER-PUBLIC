@@ -2,7 +2,7 @@ package com.santisteban.mario.poketinder.ui.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.santisteban.mario.poketinder.data.database.FirebaseRemoteConfigRepository
+import com.santisteban.mario.poketinder.data.FirebaseRemoteConfigRepository
 
 class InfoViewModel : ViewModel() {
     private var firebaseRemoteConfigRepository = FirebaseRemoteConfigRepository()

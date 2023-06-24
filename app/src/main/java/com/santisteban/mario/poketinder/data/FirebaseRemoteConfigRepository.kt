@@ -28,4 +28,6 @@ class FirebaseRemoteConfigRepository {
     private fun getIsUnderMaintenance(): Boolean{
         return instance["is_under_maintance"].asBoolean()
     }
+
+    //LAB12-FUE CONSOLA EN FIREBASE TEST LAB
 }

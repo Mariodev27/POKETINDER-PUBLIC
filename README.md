@@ -1,3 +1,3 @@
-# POKETINDER
+# POKETINDER 🪐
 Proyecto de Poketinder
 

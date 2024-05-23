@@ -3,7 +3,7 @@ pluginManagement {
         google()
         mavenCentral()
         gradlePluginPortal()
-        jcenter()
+        maven { url 'https://jitpack.io' } // Add this line
     }
 }
 dependencyResolutionManagement {
@@ -11,7 +11,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter()
+        maven { url 'https://jitpack.io' } // Add this line
     }
 }
 rootProject.name = "PokeTinder"

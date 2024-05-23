@@ -5,7 +5,7 @@ import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.firebase.remoteconfig.ktx.get
 import com.santisteban.mario.poketinder.R
 
-class FirebaseRemoteConfigRepository {
+class  FirebaseRemoteConfigRepository {
     val instance = FirebaseRemoteConfig.getInstance()
 
     val getUrlPokemonLiveData: MutableLiveData<String> = MutableLiveData()

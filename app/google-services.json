@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843811073377",
+    "project_id": "poketinder-d5603",
+    "storage_bucket": "poketinder-d5603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843811073377:android:7b94190b9ef7db5db36920",
+        "android_client_info": {
+          "package_name": "com.santisteban.mario.poketinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843811073377-6mnngagld5ie6jeu7n2gfsmmg2kcveg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbORdbGJ7Dfb2p83xNKr8iUFm6qbDpQSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843811073377-6mnngagld5ie6jeu7n2gfsmmg2kcveg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
